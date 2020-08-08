@@ -1,0 +1,2023 @@
+1 - Percepteur
+23 - Charlotte
+26 - Séline
+35 - Laura Soho
+37 - Amine
+38 - Rish Claymore
+40 - Filgar Feel
+41 - Setag
+42 - Zeurg
+43 - Epuop Tik
+45 - Rigal Main Crochue
+46 - Elya Wood
+47 - Edrige Valling
+51 - Kelog Korflex
+52 - Azra Lazarus
+53 - Farle Ingalsse
+54 - Shika Ingalsse
+55 - Captain Iglout
+57 - Bowisse
+58 - Hanniboul Smisse
+59 - Agrid Shakoku
+60 - Harrys Corb
+61 - Casper Van Brushing
+62 - Graham Finame
+63 - Abely Bobeule
+66 - Ralgout
+78 - Gardien du Kanojedo
+79 - Hugo Bélo
+80 - Grizmine
+81 - Linda Malibou
+82 - Boude Spenssour
+83 - Teransse Houlle
+84 - Vil Smisse
+87 - Ded Aléïcar
+88 - Lanseuft de Troille
+89 - Aria Knofob
+90 - Mori Arty
+91 - Simgood le marin
+92 - Hourax Hipipe
+93 - Ale One
+94 - Kwaker Vans
+95 - Allen Déchakal
+96 - Bellus Sel
+97 - Karim Katékit
+98 - Frankie
+99 - Lara Soft
+100 - Banquier
+101 - Loopine
+102 - Salamon Rudy
+104 - Keck Auprune
+105 - Djonz
+109 - Ness Laye
+111 - Otho Laringo
+115 - Aga Dou
+117 - Bolzano Vieilletrasse
+118 - Heûl Leise
+119 - Assistant d'Otomaï
+120 - Max
+123 - Ozen Le sage
+124 - Eowïne Fiole
+127 - Harry Stote
+129 - Eleveur de Dragoeuf
+132 - Gregor Mendal
+133 - Sosh
+134 - Lily
+136 - Lily
+137 - Wa Wabbit
+139 - Logel le Lenald
+140 - Lilou la Lenalde
+141 - Wabbit du Matin Pewlant
+142 - Logel le Lenald
+143 - Wabbit du Midi Wayonnant
+144 - Wabbit du Soiw Woulant
+145 - Lenald des Temps Anciens
+146 - Wob
+147 - Gawde Wabbit
+148 - Gawdien du Dofus
+149 - Gawdien du Dofus
+151 - Gropinson Cruaulé
+153 - Promoteur de l'agence Touriste
+154 - Kib Roche
+155 - Kanniboul cuisinier
+156 - Issé Heau
+157 - Employé de l'agence Touriste
+159 - Kanniboul masque
+160 - Moon
+161 - Kara Hibe
+162 - Ortimus
+163 - Prêtre
+164 - Cherlook Holmus
+165 - Servante
+166 - Uba Tessé
+167 - Kande Boffler
+168 - Boff Chalon
+169 - Vid Cheber
+170 - Benn Zin
+173 - Rotabla le berger
+175 - Chaferfu
+176 - Hel Munster
+178 - Don Rouann
+180 - Amayiro
+183 - Oto Mustam
+184 - Tarche
+185 - Dame Cloude
+186 - Niamuh Boulkier
+187 - Shere Hacanon
+188 - Finche Aticus
+189 - Trev Pelsantery
+190 - Rei Rosert
+191 - Flora Retnie
+192 - Hersa Griffe Sombre
+194 - Torche
+196 - Wogew l'hewmite
+197 - Leonzi Trool
+198 - Tabi de Grace Malcean
+199 - Clara Daule
+200 - Layol Nidalap
+201 - Larry Poller
+202 - Jett Marte
+203 - William Lenglad
+204 - Vicky Facheyon
+205 - Maude Ere
+206 - Erem Dran
+207 - Larik Oubiac
+208 - Nani Tago
+209 - Gigi
+210 - Neige
+211 - Yvan Amarh
+212 - Sen Eiser
+213 - Galde Avout
+214 - Hete Renelt
+215 - Capitaine Alrok
+216 - Onnel Passepat
+217 - Grace Malcean
+218 - Ruth Banke
+219 - Majono Takubin
+220 - Anik Mech
+221 - Moub Reicifitra
+223 - Doug Tulvin
+224 - Milie Reilloc
+225 - Gaï Tane
+226 - Ecureuil clairvoyant
+227 - Dike Tarak
+228 - Sanagouk
+229 - Marsel Leax
+230 - Kaze koule
+231 - Ned Etsith
+232 - Sey jissey
+233 - Ture Inge
+234 - Enoué Chupac
+235 - Bill Iédebar
+236 - Connie Vini
+237 - Roca Charmé
+238 - Tsog
+239 - Musa
+240 - Tavernier Feubuk
+241 - Marge Gondersun
+242 - Mak Gahan
+243 - Ivrogne anonyme
+244 - Tavernier Tabasse
+245 - Seci Ves
+246 - Guerrier Brank Thoof
+247 - Guerrier Seta Bnamron
+248 - Guerrier Tink Berval
+249 - Guerrier Kad Maxy
+250 - Guerrier Jack Rottance
+251 - Guerrier Haco Norss
+252 - Guerrier Xale DuGros
+253 - Guerrier Nager Nacmeil
+254 - Guerrier Sivart Bicelk
+255 - Guerrier Bishom Pot
+256 - Kosuke Ichazum
+257 - Capitaine Malfe
+258 - Fryda Griffe-de-la-Nuit
+259 - Rekojel
+260 - Tek Apout
+261 - Kazzy Duno
+262 - Allen Tokar
+263 - Lansy Odsson
+264 - Rafaj
+265 - Dante Sion
+266 - Baal O'Char
+267 - Diabalou
+268 - Mimi Fista
+269 - Vagabond
+270 - Servante démoniaque
+271 - Bout d'chair
+272 - Roupi Chipon
+273 - Tadosse
+274 - Rucar
+275 - Runyac
+276 - Oket
+277 - Milone Corichel
+278 - Artok
+279 - Boulor
+280 - Sotsiah Peh
+281 - Gymy Ro
+282 - ZolTAN
+283 - Trysy
+284 - Enamira
+285 - Fulsura
+286 - Nim Nei
+287 - Tamiat
+288 - Koli
+289 - Sperwel
+290 - Iakos
+291 - Sanglier des plaines
+292 - Tavernier Bagrutte
+293 - Tavernier Alakarte
+294 - Tavernier Chopenbois
+295 - Tavernier Pinchaut
+296 - Tavernier Ferayeur
+297 - Oshimo
+298 - Nissacram
+300 - Bhan Laka
+301 - Gringo
+302 - Gringa
+303 - Gringu
+304 - Gringi
+305 - Jerhyn Gholein
+306 - Ala Raine
+307 - Tabach le Greffier
+308 - Aigurraf le Greffier
+309 - Ybaul, Greffière
+310 - Kaffra Kyper
+312 - Bruli Ounim
+313 - Rika Charmé
+314 - Huta Wouite
+315 - Paro Cabanne
+316 - Angelo Bolle
+317 - Ixa Mustam
+318 - Danathor
+319 - Rei Nisuc
+320 - Trof Hapyus
+321 - Krachan Porterr
+322 - Kro Burk
+323 - Jiaye Djaul
+324 - Kwoker Djaul
+325 - Ichassi Djaul
+326 - Malicia Misère
+327 - Reve Nocturne
+328 - Aldir Atolmond
+329 - Ranj Thé
+330 - Capitaine Essacarf
+331 - Houé Dapyus
+332 - Goldo Arak
+333 - Colonel Lyeno
+334 - Chevalier Nogard
+335 - Sbab
+336 - Capitaine Koda
+337 - Gobelin
+338 - Chef Milicien
+339 - Milicien
+340 - Greg Aougos
+341 - Raaga
+342 - Raaga
+343 - Sentinelle Tevi Lup
+344 - Sentinelle Chô Peleux
+345 - Sentinelle Yourig Ella
+346 - Sentinelle Eche Pediot
+347 - Sentinelle Emide Routte
+348 - Garde Pritt Ganslante
+349 - Garde Herviss Ganslante
+350 - Garde Aybou Ganslante
+351 - Satirev Refibrom
+352 - Coupable I
+353 - Coupable II
+354 - Coupable III
+355 - Rimaraf
+356 - Mèr
+357 - Puja Mustam
+358 - Gardien Ace Bruth
+359 - Ecureuil attachant
+360 - Ecureuil savant
+361 - Ecureuil séduisant
+362 - Ecureuil ambulant
+363 - Chevalier Fougarde
+364 - Trojen Tihpor
+365 - Mulic Bere
+366 - Meneur Rocopal
+367 - Domen
+368 - Chafer Archer
+369 - Heticili Ufot
+370 - Guf Ruheu
+371 - Reuth Rezed
+372 - Mente Heur
+373 - Ecureuil miraculeux
+374 - Gelée Royale Bleue
+375 - Gelée Royale Citron
+376 - Gelée Royale Fraise
+377 - Gelée Royale Menthe
+379 - Brik Enbroc
+380 - Frye Handiz
+383 - Girle Pylote
+384 - Chaki Triss
+386 - Pousse-pousse
+387 - Yan Chenap
+388 - Efu Irtaface
+389 - Mama Ayuto
+391 - Mam Hikofre
+393 - Yova Etna
+394 - Marine Lond
+395 - Dicenai Lond
+396 - Faur Inkaisse
+397 - Maxims
+398 - Hinss Hairt
+399 - Belguel Cul-Talon
+400 - Krip Soue
+401 - Bullie Duble
+402 - Sû Benhir
+403 - Frank Genis
+404 - Miss Reeze Teurf
+405 - Notend Less
+406 - Fey Gnan
+407 - Pat Pott
+408 - Rudla Faurtune
+409 - Ze Krow
+410 - Ka Tuor
+415 - Fleutus Riktus
+416 - Gorko Casku
+417 - Nours Eulbu
+418 - Vylag Hoise
+419 - Trool Farceur
+420 - Trool Rieur
+421 - Trool Blagueur
+422 - Limine Bryone
+423 - Silimote Fougaris
+424 - Tajide Ragalde
+425 - Elisa Granite
+426 - Eluhise Valing
+427 - Rihine Pléhouverte
+428 - Sirmine Daguiero
+429 - Hirpine Fécalamité
+430 - Félénie Grismina
+431 - Lisa Modas
+432 - Emilie Yuh
+433 - Juhdo Peule
+434 - Orlando Peule
+435 - Haïkido Peule
+436 - Brigitebardo Peule
+437 - Marlonebrando Peule
+438 - Ricardo Peule
+439 - Bernardo Peule
+440 - Edmondo Peule
+441 - Ninetainedo Peule
+442 - Micado Peule
+443 - Makdo Peule
+444 - Kib Roche
+447 - Wally Elconom
+448 - Eilof Aledec
+449 - Erty Trapchet
+450 - Yke Harou
+451 - Pleur Nycheuz
+452 - Oz Dralett
+453 - Marp
+454 - Louc Drif
+455 - Seria
+456 - Fuu Yie
+457 - Soki
+458 - Aida
+462 - Shani Sings
+463 - Sam Croa
+464 - Tek Abir
+465 - Yve Konpetmin
+466 - Tekat Bra
+467 - Alit Elfminate
+468 - Menge Paca
+470 - Phite Pouque
+471 - Allisteria
+472 - Saketsu
+473 - Montrakwartz
+474 - Mon'Hawt'Wit'
+475 - Ogivol Scalarcin
+476 - Jim Fleps
+477 - Grand-mère
+478 - Ztiv Oztin
+479 - Nepra Lido
+480 - Setsinbol
+481 - Joe Pierlivet
+482 - Deudoiné
+483 - Ticra
+484 - Oli Venders
+485 - Clint Pot
+486 - Nibé Lulle
+487 - Iolo Enchoua
+488 - Trois-Fleurs
+489 - Howard le Simaisrien
+490 - Diver Birel
+491 - Soun Rinos
+492 - Touh Flowa
+493 - Clyde Peus
+494 - Rok Elreuss
+495 - Meow Moew
+496 - Sadadi Sama
+497 - Abrazelon Sixgriffe
+498 - Fallanster
+501 - Le Remplisseur
+502 - Seth Sourcet
+503 - Enileda
+504 - Leon Edehcub
+505 - Gasdaure
+506 - Wilde Pyrite
+510 - Ogivol Scalarcin
+511 - Padgref Demoël
+512 - Brumen Tinctorias
+513 - Frakacia Leukocytine
+515 - Fouduglen l'Ecureuil
+516 - Qil Bil
+520 - Essiac d'Engrape
+522 - Al Etsop
+524 - Louse Degraine
+525 - Mercenaire d'Astrub
+526 - Mercenaire d'Astrub
+527 - Mercenaire d'Astrub
+528 - Mercenaire d'Astrub
+529 - Bouftou apprivoisé
+530 - Bouftou apprivoisé
+531 - Bouftou apprivoisé
+532 - Bouftou apprivoisé
+533 - Bouftou apprivoisé
+534 - Uneul Nak
+535 - Unortel Nak
+536 - Unhorel Nak
+537 - Unkouy Nak
+538 - Gazpacho
+540 - Gazogen
+541 - Gazteropod
+542 - Gazoline
+543 - Ant Emicheun
+544 - Radlu Minite le Mineur Sombre
+545 - Gwenolaz Barnumuze
+546 - Vendeur de Ressources d'Astrub
+547 - Vendeur Forgeron d'Astrub
+548 - Vendeur Sculpteur d'Astrub
+549 - Kaba
+550 - Vendeur Mineur d'Astrub
+551 - Vendeur Paysan d'Astrub
+552 - Vendeur Cordonnier d'Astrub
+554 - Vendeur Bûcheron d'Astrub
+555 - Vendeur Bijoutier d'Astrub
+557 - Vendeur Alchimiste d'Astrub
+558 - Emia Elliesol
+560 - Vendeur Tailleur d'Astrub
+561 - Vendeur Boulanger d'Astrub
+562 - Vendeur de Poisson d'Astrub
+563 - Vendeur de Viande d'Astrub
+564 - Unterix Unter
+565 - Waldo Pyrite
+566 - Walter Pyrite
+567 - Vendeur Forgeron de Bonta
+568 - Vendeur Mineur de Bonta
+569 - Vendeur Sculpteur de Bonta
+570 - Vendeur Alchimiste de Bonta
+571 - Vendeur Tailleur de Bonta
+572 - Vendeur Bijoutier de Bonta
+573 - Vendeur Cordonnier de Bonta
+574 - Vendeur de Ressources de Bonta
+575 - Vendeur Boulanger de Bonta
+576 - Vendeur Paysan de Bonta
+577 - Bish Fone
+578 - Vendeur Bûcheron de Bonta
+579 - Vendeur de Poisson de Bonta
+580 - Vendeur de Viande de Bonta
+581 - Vendeur Forgeron de Brâkmar
+582 - Vendeur Mineur de Brâkmar
+583 - Vendeur Sculpteur de Brâkmar
+584 - Vendeur Alchimiste de Brâkmar
+585 - Vendeur Tailleur de Brâkmar
+586 - Vendeur Bijoutier de Brâkmar
+587 - Vendeur Cordonnier de Brâkmar
+588 - Vendeur de Ressources de Brâkmar
+589 - Vendeur Boulanger de Brâkmar
+590 - Vendeur Paysan de Brâkmar
+591 - Vendeur Bûcheron de Brâkmar
+592 - Vendeur de Viande de Brâkmar
+593 - Vendeur de Poisson de Brâkmar
+594 - Kana Petch
+596 - Chipo Atufe
+597 - Ygat Chouse
+598 - Rose Artempeth
+599 - Cirle Drawde
+600 - Latem Sa
+601 - Ahenn Peuh
+602 - Esuellat
+603 - Mercenaire d'Astrub
+604 - Mercenaire d'Astrub
+605 - Disciple mercenaire
+606 - Gardien
+608 - Krowbe Jondon
+609 - Guy San Nolan
+615 - Kernite
+616 - Brookite Pyrite
+619 - Papy nowal
+621 - Garde Chopynwa
+622 - Narber Dapiwa le Marchand
+623 - Surivitna le Shaman
+624 - Pyrite
+625 - Conseiller Boyowa
+626 - Conseiller Legawa
+627 - Conseiller Rinsdwa
+628 - Conseiller Anshwa
+629 - Conseiller Nougwa
+630 - Assistant Shaman
+631 - Fleurawa la Marchande
+632 - Le Grandapan
+633 - Ronald le Sage Lenald
+634 - Maître d'Akwadala
+635 - Plumawa la Marchande
+636 - Maître de Feudala
+637 - Marchande Petite Etoile
+638 - Chef Pandikaze
+640 - Wanald le Sage Lenald
+641 - Maître de Terrdala
+642 - Maître d'Aerdala
+643 - Garde Aerdala
+644 - Pandiwan Kenobi
+645 - Bouwada
+646 - Henual
+647 - Poochan
+648 - Poochan
+649 - Lanma
+650 - Sli
+651 - Nakunne
+652 - Gèmpa Metoasa
+653 - Gèmpa
+654 - Maitre Pandasiman
+660 - Soukawa le Marchand
+661 - Bazarwa la Marchande
+662 - Pladawa
+663 - Binzawa le Marchand
+664 - Maître du Pandawushu
+665 - Fourbyawa le Marchand
+666 - Corserawa le Marchand
+667 - Loudmerawa le Marin
+668 - Capitaine Banwana
+669 - Bobardawa le Marchand
+671 - Camelotawa le Marchand
+672 - Bushido Peule
+673 - Dark Vlad
+674 - Timouss
+675 - Garde Tono Portwa
+676 - Garde Toide Grocwayo
+677 - Ipatsu Debanbwa
+678 - Vendeur Bouclier de Pandala
+679 - Ebru Of El
+680 - Elviana Tirips
+681 - Stayfun Bonnawa
+682 - Boyrun Pticou
+683 - Ledrob Terceséc
+684 - Divad Dleifrepok
+685 - Rok Gnorok
+686 - Aermyne 'Braco' Scalptaras
+687 - Musha l'Oni
+688 - Marzwel le Gobelin
+689 - Zatoïshwan
+691 - Dollarawan Le Banquier
+692 - Yenawa le Banquier
+693 - Tourist
+694 - Runago Gho
+695 - Runoga Gha
+697 - Penih Tencier
+698 - Vendeur d'âmes de Bonta
+699 - Vendeur d'âmes de Brâkmar
+700 - Garde Uboi Porefeu
+701 - Bulbig Brozeur
+702 - Tourista
+704 - Narber Rihen Levihawa
+705 - Maître Pandore
+706 - Mamowa
+707 - Zamawa
+708 - Tanukouï San
+709 - Berthawa
+710 - Peki Peki
+711 - Tavernier du Ripate
+712 - Bworkie
+714 - Vendeur Animaux de Bonta
+715 - Vendeur Animaux de Brâkmar
+716 - Vendeur de Documents de Bonta
+717 - Vendeur Documents de Brâkmar
+718 - Vendeur Runes de Bonta
+719 - Vendeur Runes de Brâkmar
+720 - Vendeur Bricoleur de Bonta
+721 - Vendeur Bricoleur de Brâkmar
+722 - Vendeur Milice de Bonta
+723 - Milice de Brâkmar
+725 - Nowa
+726 - Mage Ax
+727 - Badufron chef mercenaire
+729 - Acidrik Fenlapanse
+730 - Nacf Virgil, vendeur de Parchemins
+731 - Test
+732 - Nistracolamus
+733 - Arpagnagrobis
+734 - Milicienne de Brâkmar
+735 - Milicienne de Bonta
+736 - Edgg Komb
+738 - Oyster
+739 - Kartier Tremai
+740 - Haraquiri
+741 - Rocco Fidelio
+742 - Monabella
+743 - Verumacha
+744 - Guedin Loursgro
+745 - Squale Lerouge
+746 - Gemfé Labelle
+747 - Degui Quetiristou
+748 - Walak
+749 - Alka Traz
+750 - Luki Loushiano
+751 - Guan Tanamault
+753 - Oshima
+754 - Gardien Koalak
+755 - Koulosse
+756 - Oshar Marif
+757 - Maître Koalak (105)
+758 - Kakolak
+759 - Frivolak
+760 - Skeunk
+761 - Rubise
+762 - Émeraude
+763 - Diamantine
+764 - Saphira
+765 - Liroye Merline
+766 - Fidji Merline
+768 - Marcelle Rouste
+769 - Jean-Sol Patre
+770 - Nikos Monote
+771 - Klako
+772 - Krakotte
+774 - Virgil
+775 - Bowork
+776 - Magnus Magus
+777 - Kourk Ingalsse
+778 - Kazy Ingalsse
+779 - Halda Moccione
+780 - Mawy Ingalsse
+781 - El Scarador
+782 - Herman Capotie
+783 - Lorkos
+784 - Fwoued
+785 - George Cash
+786 - Maître des clés
+788 - Takeshi No Pain
+789 - Ziho
+791 - Nopa Prespic
+792 - Nopa Bouftou
+793 - Nopa Bworker
+794 - Nopa Abra
+795 - Hector Nowel
+796 - Obad
+797 - Josette Taplane
+798 - Capitaine Igloute
+799 - Portier du Donjon des Rats de Bonta
+800 - Portier du Donjon des Rats de Brâkmar
+801 - Snobin Parchume
+802 - Dainde Porteplume
+803 - Valcor
+804 - Captain Starky
+805 - Piétinor le bourrin
+806 - Piélant
+807 - Maskara
+808 - Koka Dekolak
+809 - Nounou Veauté
+810 - Bouftouteater
+811 - Metag Robill
+812 - Vendeur de chapeaux
+813 - Le maître des clefs
+814 - Pat Akess
+815 - Chris de Naire
+816 - Bricky Brock
+817 - Kal Vissi
+818 - Aperirel
+819 - Monsieur El
+820 - Madame El
+821 - Paindep
+822 - Marie Zoto
+823 - Fred Austère
+824 - Jorg Dy
+825 - Bol Pokuz
+826 - Mouss Bouff
+828 - Bandit de gras chemin
+829 - Moumoule essai
+830 - Feldz Paffe
+831 - Krazybwork
+832 - Bworkidais le paxifik
+833 - Bworknroll
+834 - Gobatchef
+835 - Raxitik
+836 - Gobiere Trokeur
+837 - Plastik Gobelait
+838 - Titi Gobelait
+839 - Pinta Gone
+840 - Bworkcelhaine
+841 - Mulou Grankrok
+842 - Bworkepik
+843 - Struk'toer Nhin
+844 - Chef Bworkestre
+845 - Gobriel
+846 - Jicé Aouaire
+847 - Arietta Fiole
+848 - Potan Nhin
+849 - Contremaître Ikul
+850 - Poss'Ybel Nhin
+851 - Bworkcine
+852 - Gobrose
+853 - Gobmichet
+854 - Capitaine des Kerubims
+855 - Disskray Nhin
+856 - Str'huit Nhin
+857 - Posteur Nhin
+858 - Pipelette Nhin
+859 - Xelorat Masket
+860 - Milicien Kerubim Nabar
+861 - Milicien Kerubim Neeking
+862 - Milicien Kerubim Nybi
+863 - Paysan d'Incarnam
+864 - Gilles Caper
+865 - Galileo Magnifico
+866 - Semper Idefix
+867 - Tom Legueux
+868 - Evayée Doureve
+869 - Piou
+870 - Tenva Lakruche
+871 - Laura Thée
+872 - Grobid Le Vétéran Kerubim
+873 - Milicien Kerubim Narpeur
+874 - Anta Brok
+878 - Aymé Tairnaile
+879 - Eek Mite
+880 - Ecraz Néhofite
+881 - Bûcheron d'Incarnam
+882 - Chasseur d'Incarnam
+883 - Pêcheur d'Incarnam
+884 - Zaulie Portklais
+885 - Matu Vuh
+886 - Ma'ster Donge
+887 - Marylork
+888 - Maître Anemo
+889 - Serveuse de Grobid
+890 - Habitué de la taverne
+891 - Lykhen Lesurviven
+893 - Conseiller Yse Vewybad
+894 - Seth Zérauséro
+897 - Intendant San Lavalss
+900 - Al Blourrad
+902 - Noble de la Cour
+903 - Dame de la cour
+904 - Prince d'Wa
+906 - Bob Lenald
+907 - Valet Deauj
+908 - Valet Deauj
+911 - Valet Lelisdanla
+912 - Test
+913 - Garde Montay
+914 - Otomaï
+916 - Trône d'Allister
+925 - Capitaine Kradoc
+926 - Professeur Fournesol
+927 - Chevalier Noir et Rose
+928 - Gardien du Pont de la Mort
+929 - Polka Merer
+930 - Docteur Nauh
+931 - Paulette Pain-bèche
+932 - Jean Nauh
+933 - Docteur Morose
+934 - Jeanne Morose
+935 - Spitte Fayeur
+936 - Flip Flap
+937 - Crocodaille Dandi
+938 - Kolibrie
+939 - Kito
+940 - Peggy la Porkass
+941 - Tina Montini
+942 - Capitaine Flams
+943 - Mulèze
+945 - Razbitume
+946 - Chachka
+950 - Berkzoy
+952 - Vendeur de parchemins
+954 - Kroula
+955 - Hélène Meyer
+956 - Kimiya
+957 - Denis Brouillard
+958 - Classman
+959 - Craqueleur Poli Poli
+962 - Exoram
+963 - Xephirès
+964 - Tertofi Ablaru
+965 - Ekusoyk Ubnan
+966 - Xarthan
+968 - Chef des espions
+969 - Tacticien de Bonta
+970 - Puissant milicien bontarien
+971 - Norb
+972 - Nara
+973 - Commandant bontarien Kad
+974 - Milicien équipé
+975 - Archère équipée
+977 - Turorte
+978 - Thanos
+979 - Espion blessé
+980 - Agent de Brâkmar
+981 - Espion en fuite
+982 - Iop en cape brâkmarienne
+983 - Marquis
+984 - Sadida en cape bontarienne
+1010 - Merlan l'Enchaîneur
+1012 - Kapi Taigne
+1034 - Bibiblop
+1035 - Ronan le Blagueur
+1036 - Ernesto Rouste
+1037 - Lina Vortald
+1041 - Morrie Gane
+1042 - Raymond Santho
+1043 - Âme de Terra Tibya
+1045 - Eni Hoube
+1046 - Terra Tibya
+1047 - Espionne Brâkmarienne
+1048 - Mac Ronald
+1049 - Terra Cogita
+1050 - Renégat bontarien
+1051 - Dépouille de renégat
+1053 - Vendeur de Dofus
+1076 - Doro le Blak
+1077 - Assistante d'Otomaï
+1080 - Trok
+1088 - Snori Nairb
+1090 - Pandalida
+1091 - Xélora Busai
+1092 - Sabine
+1093 - Geôlier de Sabine
+1094 - Chef des voleurs
+1095 - Voleur de Brâkmar
+1096 - Nana moche qui rit
+1097 - Gardien du puits
+1098 - Ybur Effel
+1099 - Highlambert
+1100 - Riyou Tchevlakouk
+1101 - Chef du convoi
+1102 - Bwak de feu
+1103 - Lelievwe Pâle Pitane
+1104 - Sim le Soft
+1105 - Nek'Ro Nomikon
+1106 - Bandit des plaines
+1108 - Ecaline
+1109 - Kate Woumane
+1110 - Grimpill
+1111 - Corbac
+1112 - Garde de la tour
+1113 - Gueurle
+1114 - Garde de convoi
+1115 - Trape
+1116 - Arlette Ba
+1117 - Néforun
+1118 - Dréna Nassema
+1119 - Eniripsa de Brâkmar
+1120 - Jibworknouille
+1121 - Thomas Sacre
+1123 - Poursuivant brâkmarien
+1127 - Emma Sacre
+1128 - Nibor Dépitré
+1129 - Chef des renégats bontariens
+1130 - Garde déguisé
+1131 - Voleur de Brâkmar
+1133 - Voleur de Brâkmar
+1134 - Voleur de Brâkmar
+1135 - La Gonflante
+1140 - Jissey Pandamme
+1158 - Vendeur de capes
+1162 - Pavu Papry
+1163 - Klik Klak
+1165 - Iturik
+1166 - Dikaprio
+1216 - Goultard
+1217 - Norach
+1218 - Goultard
+1219 - Warko Linch
+1220 - Vendeur Bricoleur d'Astrub
+1221 - Vendeur Fées d'artifice
+1222 - Maître Pifo
+1223 - Fée Risette
+1224 - Ali Macbeth
+1225 - Sel Dawa
+1226 - Pandale Douce
+1227 - Phil Arthur
+1228 - Baramine
+1229 - Laforay
+1230 - Bob l'Enutrof
+1231 - Garde Heury
+1232 - Félix Nowel
+1233 - Zézette Nowel
+1234 - Syn Jorge
+1235 - Dédé Toure Neman
+1236 - Capitaine Ardier
+1237 - Maire Cantile
+1239 - Cassiopée Hisane
+1240 - Circé Réal
+1241 - Bisale Vinlenta
+1242 - Chef Rhonté
+1243 - Capitaine Gneux
+1244 - Walter Aygo
+1245 - Clarisse Tosha
+1246 - Lucette Brifian
+1247 - Hyppolite Tairmy
+1248 - Hugo Frais
+1249 - Laurent Gebleuh
+1250 - Justin Dwa
+1251 - Albert Paisse
+1252 - Bonnie Barrow
+1253 - Clyde Parker
+1254 - Jean-Pierre Kofkof
+1255 - Annette Daimpeau
+1256 - Paul Igam
+1257 - Germain Danlsak
+1258 - Firmin Tassion
+1259 - Abdhoul Heure
+1260 - Éric Azaraille
+1261 - Diana Jaune
+1262 - Casper Kolateur
+1263 - Quentin Flush
+1264 - Mousse Haka
+1266 - Léthaline Sigisbul
+1267 - Ze Rorc
+1268 - Hata Marie
+1269 - Esprit de Cabotine
+1270 - Jozébo Vez
+1272 - Ernest Laye
+1273 - Mel
+1274 - Ordralfabétist
+1275 - Kyrie Lawache
+1276 - Aurore Boréale
+1277 - Frigostine
+1278 - Al Shab
+1279 - Mac Givré
+1280 - Agnès Péha
+1281 - Baka Laïve
+1282 - Damar
+1283 - Grand-père
+1284 - Biloute
+1285 - Truffo
+1286 - Agent de la compagnie Asfog et Fils
+1287 - Agent immobilier de Bonta
+1288 - Hôtesse d'accueil
+1289 - Agent immobilier de Brâkmar
+1290 - Valy Domidat
+1291 - Francky
+1292 - Bonhomme de neige
+1293 - Richard Rouge
+1294 - Staurme Sioux
+1295 - Staurme Jauni
+1296 - Grimebène
+1297 - Bambelle
+1298 - Gormor l'Équarrisseur
+1299 - Panoramist
+1300 - Waldos FieldChester Potcobble
+1301 - Marin
+1302 - Mousse
+1303 - Docker
+1304 - Chienchien des glaces
+1305 - Pêcheur du lac
+1306 - Dazel
+1307 - Zobie la mousse
+1308 - Lafairé Danlsak
+1309 - Bouflouth
+1310 - Monsieur Pingouin
+1311 - Katigrou
+1312 - Fantômayte
+1313 - Vengeuse Masquée
+1314 - YeCh'Ti
+1315 - Fuji Givrefoux
+1316 - Dremoan
+1317 - Jarvi Jukkas
+1318 - Nayd Uches
+1319 - Pleni l'Ancien
+1320 - Ken Tucky
+1321 - Barin enrubé
+1322 - Docker enrubé
+1323 - Larry Tutthe
+1324 - Gaston
+1325 - Chasseur blessé
+1326 - Djauns
+1327 - Ogivol Victor
+1328 - Chef des chasseurs de YeCh'Ti
+1329 - Pisteur du YeCh'Ti
+1330 - Chasseur de YeCh'Ti
+1331 - Nico
+1332 - Elcaste
+1333 - Sufur
+1334 - Klétor
+1335 - Joe Froid
+1336 - Jojo Akim
+1337 - Esprit Zonier
+1338 - Oynop
+1339 - Merton Valend
+1340 - Ainer Meon
+1341 - Konnoth Elssen
+1342 - Endars Heldi
+1343 - Renu Usterhos
+1344 - Maho Tsétougivré
+1345 - Soryo Givrefoux
+1346 - Tengu Givrefoux
+1347 - Yokaï Givrefoux
+1348 - Ghislaine
+1349 - Jean-Louis
+1350 - Groméo Montay
+1351 - Ginette Capoué
+1352 - Vieux Capoué
+1353 - Robin Marimoni
+1354 - Heike Holo
+1355 - Judas Sticau
+1356 - Beulin
+1357 - Fantômahawk
+1358 - Lave Azza
+1359 - John Loque
+1360 - Dutch
+1361 - Dan Lavy
+1362 - Lisa Kaya
+1363 - Hywan Kenoby
+1365 - Chuck 'Niouke' Pala
+1366 - Fab Berthazien
+1367 - Maytésé Nyhil
+1368 - Kiki
+1369 - Grobidet
+1370 - Père Doby
+1371 - Aimé Ryckeno
+1372 - Asselo
+1373 - Albert Lioz
+1374 - Moutou Louse
+1375 - Michèle Seyroth
+1376 - Jamy Rocaille
+1377 - Surlah Taite
+1378 - Lesson
+1379 - Lulu Cotte
+1380 - Lebar
+1381 - Mamie Rexpress
+1382 - Assistante de Justin Dwa
+1383 - Salah Connol
+1384 - Gentil Organisateur Kanniboul
+1385 - Givrihaltès
+1386 - Risette Lestat
+1387 - Gentil Organisateur Chafer
+1388 - Bûcheron pétrifié
+1389 - Bûcheron congelé
+1390 - Adélaïde
+1391 - Sylvie Barbe
+1392 - Sam Barbe
+1393 - Professeur Xa
+1394 - Willy La Bille
+1395 - Kordis
+1396 - Vendeuse de skis
+1397 - La Créature
+1398 - Richard Cutier
+1399 - Boufmouth dressé
+1400 - Maho Givrefoux
+1401 - Passe Nimportou
+1402 - Francis
+1403 - Moira
+1404 - Gentil Organisateur Kwakerbak
+1405 - Maya
+1406 - Gaby Yarno
+1407 - Moktwa
+1408 - Feruor Mithridate
+1409 - Yzua le suspect
+1410 - Tassa
+1411 - Bapapa
+1412 - Agent Smisse
+1413 - Gilbert Hetta
+1414 - Commando Peule
+1415 - Nicolas Nowel
+1416 - Groocse
+1417 - Carole Nowel
+1418 - Gas Pawd
+1419 - Balt Azaw
+1420 - Mel Chiow
+1421 - Troispattes
+1422 - Bad Aboum
+1423 - Ballontin
+1424 - Sucrepul
+1425 - Armando Peule
+1426 - Songrand de Nohto
+1427 - Hibaba
+1428 - Hervé Rolay
+1429 - Ladur
+1430 - Jonas Bridget
+1431 - Pandawanegaine
+1432 - Humée
+1433 - Jeanne Mori
+1434 - Véga
+1435 - Gardien de l'arène
+1436 - Gardienne de l'arène
+1437 - Maître Yakasi
+1438 - Ulrik Holgan
+1439 - Powte-clef
+1440 - Herdegrize
+1441 - Apprenti d'Otomaï
+1442 - Jykel
+1443 - Dan Gevo
+1444 - Créature d'Otomaï
+1445 - Maître du Pandawushu
+1446 - Liselle de Richeterre
+1447 - Otto Brikenbrok
+1448 - Stok
+1449 - Stak
+1450 - Seb Hultur
+1451 - Régisse Kardestin
+1452 - Capitaine Jeanne Heuway
+1453 - Matt Hematik
+1454 - Dina Tapio
+1455 - Betty Boob
+1456 - Juju
+1457 - Pikie
+1458 - Nevark le Chasseur
+1459 - Bo Peye
+1460 - Thomas Coque
+1461 - Karla Jangré
+1462 - Avotte Boncœur
+1463 - G.O. Beltheuze
+1464 - G.O. Lozie
+1465 - G.O. Sadinoel
+1466 - G.O. Karus
+1467 - G.O. Cortek
+1468 - G.O. Malikila
+1469 - Dekster
+1470 - Capitaine Hébreuze
+1471 - Roublard Ticho
+1472 - Roublard Akiri
+1474 - L.A.T.P. Black Boj
+1475 - L.A.T.P. Blou Akor
+1476 - L.A.T.P. Pinkala
+1477 - L.A.T.P. Yélo Bag
+1478 - L.A.T.P. Raid Frome
+1479 - Fan de Boufbowl Zouzou
+1480 - Fan de Boufbowl Ivétome
+1481 - Fan de Boufbowl Mac Burneck
+1482 - Fan de Boufbowl Deris
+1483 - Fan de Boufbowl JM Fleuve
+1484 - Fan de Boufbowl Karaage
+1485 - Fan de Boufbowl Donald
+1486 - Fan de Boufbowl Tipoul
+1487 - Fan de Boufbowl Zalia
+1488 - Fan de Boufbowl Bek
+1489 - Fan de Boufbowl Nokio
+1490 - Fan de Boufbowl Chichi
+1491 - Fan de Boufbowl Zano
+1492 - Fan de Boufbowl Lee Wood
+1493 - Fan de Boufbowl Roberty Defer
+1494 - Fan de Boufbowl décédé
+1495 - Fan de Boufbowl Barbeuk
+1496 - Fan de Boufbowl Rag
+1497 - Fan de Boufbowl Mogr
+1498 - Fan de Boufbowl Lognèse
+1499 - Denise Dryne
+1502 - Conseillère Archie
+1503 - Mercenaire d'Astrub
+1504 - Mercenaire d'Astrub
+1505 - Légumane
+1506 - Thibaut Truche
+1507 - Modibo Delair
+1508 - Saykou Aychwesh
+1509 - Migouze le vieil ermite
+1510 - Vendeur Kolizéum
+1511 - Annabelle Huaire
+1512 - Georges de Segrob
+1513 - Regnator
+1514 - Regnator
+1516 - Marchand du temple
+1517 - Caesal
+1518 - Glugubrr
+1519 - Redolphe
+1520 - Cafard Fadet
+1521 - Oogie Betty
+1522 - Chef Gludotek
+1523 - Roi Allister
+1524 - Glunette
+1525 - Glukrativ
+1526 - Gluciol
+1527 - Glubrik
+1528 - Gluxur
+1529 - Glupanar
+1530 - Glutenberg
+1531 - Glutilitayr
+1532 - Glutrikulayr
+1533 - Disciple de Jiva
+1534 - Zam Bono
+1535 - Gros Troud
+1536 - Kana Suhkr
+1537 - Marica Viste
+1538 - Greg Emilioner
+1539 - Spik Izzy
+1540 - Docker Dularj
+1541 - Docteur Erbaf
+1542 - Znarfak Fak
+1543 - Adrienne
+1544 - Glupperkut
+1545 - Léo de Hurledent
+1546 - Disciple de Djaul
+1548 - Glukarn
+1549 - Ouvrier Glutin
+1550 - Gluhu
+1551 - Allisteria
+1552 - Prêtre du Château
+1553 - Dame de la cour
+1554 - Dame de la cour
+1555 - Dame de la cour
+1556 - Noble de la Cour
+1557 - Noble de la Cour
+1558 - Noble de la Cour
+1559 - Bajadita
+1560 - Bechigue
+1561 - Biscouette
+1562 - Chistera
+1563 - Joug
+1564 - Raffut
+1565 - Noble de la Cour
+1566 - Valet Lelisdanla
+1567 - Envoyé du roi Allister
+1568 - Beau-Papa d'Wa
+1569 - Tommy Dhas
+1570 - Sénéchal Dejah Kob
+1572 - Goriya
+1573 - Jean Balle
+1574 - Prim
+1575 - Thélène Teh
+1576 - Ohik Huaire
+1582 - Ibalo
+1583 - Tringue
+1584 - Yverne
+1585 - Boa
+1586 - Xiap
+1587 - Espwit Wabbit Affamé
+1588 - Espwit de Gésa
+1589 - Steff Taff
+1590 - Docteur Hou
+1591 - Aloin Bambard
+1592 - Viktorie Penk
+1593 - Jelus Vern
+1594 - Tirando Peule
+1595 - Ada Blablage
+1596 - Estave Guiffel
+1597 - Pam Chollion
+1598 - Vasca Degamo
+1599 - Roukerol de Nerouz
+1600 - Jemas Kooc
+1601 - Mage Hellan
+1603 - Ozen
+1604 - Rita Byrla
+1605 - Commandant Costaud
+1606 - Elmouth Arde
+1607 - Franklin Gon
+1608 - Jennyfer Engi
+1609 - Claire Bonette
+1610 - Tina Ninopogot
+1611 - Roublard Kebuz
+1612 - Dame au Chapeau Rose
+1613 - Rose Lapeintaire
+1614 - Nitrô
+1615 - Ness Lok
+1616 - Alberta Borida
+1617 - Rosiella Rivteuz
+1619 - Tronkny  Baussope
+1621 - Brumen Tinctorias
+1622 - Moomoo
+1623 - Kosal
+1624 - Chik
+1625 - Théodoran Ax
+1626 - Yacinthe Ax
+1627 - Vermô
+1628 - Xanamla
+1629 - Jujü
+1630 - Ounirom
+1631 - Ketzakwet
+1632 - Krûnsh
+1633 - Kroketh
+1634 - Sulp
+1635 - Dethoama
+1636 - Sad
+1637 - Wasaru
+1638 - Nufrank
+1639 - Franho
+1640 - Emp
+1641 - Foluk
+1642 - Djuuma
+1643 - Bodirom
+1644 - Nido
+1645 - Olvido
+1646 - Guidys
+1647 - Nitsougnal
+1648 - Benjo
+1649 - Emattera
+1650 - Diakollec
+1651 - Astirout
+1652 - Eylen
+1653 - Dnegeleht
+1654 - Kuri
+1655 - Yaloop
+1656 - Fry
+1657 - Zellina
+1658 - Sephy
+1659 - Baba
+1660 - Viviantho
+1661 - Patawaii
+1662 - Sili
+1663 - Rikoo
+1664 - Capt
+1665 - Coyo
+1666 - Fredocigam
+1667 - Tchokun
+1668 - Macugny
+1669 - Asid
+1670 - Takeza
+1671 - Mitomiel
+1672 - Nikodeus
+1673 - Miloune
+1674 - Kacinka
+1675 - Mathrû
+1676 - Hito
+1677 - Pouki
+1678 - Poup
+1679 - Tilapiatsu
+1680 - Otoul
+1681 - Namsporp
+1682 - Jacoula
+1683 - Dek
+1684 - Flouky
+1685 - Reniator
+1686 - Mustasly
+1687 - Messikriss
+1688 - Annbonny
+1689 - Waro
+1690 - Julo
+1691 - Mûnir
+1692 - Jeffarctor
+1693 - Angy
+1694 - Fafah
+1695 - Lateralus
+1696 - Uicuic
+1697 - Tinyrus
+1698 - Troyle
+1699 - Eltux
+1700 - Inooni
+1701 - Vanderivz
+1702 - Ezimuos
+1703 - Tiris
+1704 - Edacsak
+1705 - Eltruteht
+1706 - Ologar
+1707 - Adam
+1708 - Kountar
+1709 - Moko
+1710 - Ingmar
+1711 - Foya
+1712 - Bovjouski
+1713 - Mig
+1714 - Sêpt
+1715 - Jason
+1716 - Eboren
+1717 - Lucyvan
+1718 - Ryf
+1719 - Sebsokk
+1720 - Reivax
+1721 - Benjak
+1722 - Grüg
+1723 - Maxarès
+1724 - Math
+1725 - Milivar
+1726 - Simsof
+1727 - Fhenris
+1728 - Korri
+1729 - Ediva
+1730 - Cocoyuyu
+1731 - Dari
+1732 - Aisk
+1734 - Vendeur Figurines
+1735 - Krozette
+1736 - Manoush
+1737 - Ancestrotek
+1738 - Vikotoru
+1739 - Lorko
+1740 - Lucimay
+1741 - Zouzo
+1742 - Cherop
+1743 - Davut
+1744 - Mud
+1745 - Mau
+1746 - Xa
+1747 - Grugin
+1748 - Yukin
+1749 - Farod
+1750 - Makss
+1751 - Latürb
+1752 - Nosruo
+1753 - Miss Triste
+1754 - Bryss
+1755 - Roméro
+1756 - Jean Koche
+1757 - Ramasseur de pommes
+1758 - Ramasseur de pommes
+1759 - Ramasseuse de pommes
+1760 - Ramasseuse de pommes
+1763 - Phylie Pedis
+1764 - Brak'Marathonien
+1765 - Brak'Marathonien
+1766 - Brak'Marathonienne
+1767 - Brak'Marathonienne
+1768 - Disciple d'Asid
+1769 - Halouine
+1770 - Mazic
+1771 - Arouz
+1772 - Orage
+1773 - Thomahon
+1774 - Ling
+1775 - Sebklav
+1776 - Yvad
+1777 - Leszak
+1778 - Stun
+1779 - Trôma
+1780 - Ashvey
+1781 - Rojers
+1782 - Katlestyn
+1783 - Guigui
+1784 - Poupline
+1785 - Bubba
+1786 - Kia
+1787 - Yêcetu
+1788 - Eskarina
+1789 - Inkola
+1790 - Magikow
+1791 - Danizzal
+1792 - Kestra
+1793 - Shiva
+1794 - Billfer
+1795 - Pierrock
+1796 - Maribri
+1797 - Koppapi
+1798 - Krala
+1799 - Lôrf
+1800 - Teskirf
+1801 - Tolgnas
+1802 - Ruevas
+1803 - Marke
+1804 - Eritem
+1805 - Val
+1806 - Misdup
+1807 - Kimykay
+1808 - Eramas
+1809 - Kilistin
+1810 - Meash
+1811 - Bazûkana
+1812 - Karlita
+1813 - Edyxo
+1814 - Duf
+1815 - Güss
+1816 - Tehego
+1817 - Eidnas
+1818 - Amirniana
+1819 - Karat
+1820 - Atog
+1821 - Bii
+1822 - Ludobel
+1823 - Rumo
+1824 - Vinstyl
+1825 - Kanabal
+1826 - Krisdip
+1827 - Tiko
+1828 - Tidihef
+1829 - Yalpriaf
+1830 - Fitsef
+1831 - Jonat
+1832 - Meluze
+1833 - Marifriss
+1834 - Sylkauf
+1835 - Darkchy
+1836 - Marilez
+1837 - Tella
+1838 - Davkaz
+1839 - Totot
+1840 - Inndo
+1841 - Laetux
+1842 - Tajonoo
+1843 - Maëmon
+1844 - Todobaï
+1845 - Cycloune
+1846 - Orété
+1847 - Wish
+1848 - Ninefi
+1849 - Icleen
+1850 - Elosi
+1851 - Cébeyon
+1852 - Konala
+1853 - Perviom
+1854 - Socren
+1855 - Fala
+1856 - Dees
+1857 - Sha
+1858 - Clynt
+1859 - Ocarian
+1860 - Mahadine
+1861 - Kimbru
+1862 - Etnop
+1863 - Azra
+1864 - Yamato
+1865 - Jébédaï
+1866 - Typlanêt
+1867 - Tasmalin
+1868 - Itourp
+1869 - Bensom
+1870 - Enaibi
+1871 - Mak
+1872 - Nunu
+1873 - Jay
+1874 - Mobbib
+1875 - Gorzarel
+1876 - Bûnty
+1877 - Mascha
+1878 - Favarez
+1879 - Sehb
+1880 - Duc
+1881 - Tchoub
+1882 - Viti
+1883 - Scheik
+1884 - Sylfaen
+1885 - Katelruz
+1886 - Lakha
+1887 - Rakreveï
+1888 - Fako
+1889 - Proff
+1890 - Shinkarré
+1891 - Mylka
+1892 - Franek
+1893 - Dédomaj
+1896 - Ayiri Ch'Kofi
+1897 - Fanny Hépie
+1898 - Isidowe
+1899 - Isidowe
+1900 - Jean Brouille
+1901 - Kerubim Crépin
+1904 - Gralahad
+1905 - Gilou Aychwesh
+1906 - Hassen Cehef
+1909 - Fantôme Glacé
+1910 - Fantôme Gelé
+1911 - Fantôme Refroidi
+1912 - Fantôme Frissonnant
+1913 - Fantôme Frigorifié
+1914 - Fantôme Transi
+1915 - Vladimir Millon
+1916 - Shushu Baka
+1917 - Gaztronom
+1918 - Xélor Louche
+1919 - Xélor Suspect
+1920 - Xélor Interlope
+1921 - Shushu Baka
+1922 - Kerubim Crépin Toflé
+1923 - Esthoma
+1924 - Gymcitro
+1925 - Rikku
+1926 - Malava
+1927 - Bo
+1928 - Bipup
+1929 - Azkatraz
+1930 - Bigg
+1931 - Bern
+1932 - Loumi
+1933 - Duanaf
+1934 - Zebdara
+1935 - Todeb
+1936 - Emil
+1937 - Nell
+1938 - Ku
+1939 - Khâm
+1940 - Kevlatahmu
+1941 - Tyrben
+1942 - Jember
+1943 - Ntamak
+1944 - Krisegis
+1945 - Osebo
+1946 - Daza
+1947 - Seyfani
+1948 - Taelstrom
+1949 - Milidès
+1950 - Izmar
+1951 - Ani
+1952 - Xandra
+1953 - Tiny
+1954 - Alikindoy
+1955 - Toun
+1956 - Namyknof
+1957 - Elgero
+1958 - Mikart
+1959 - Martero
+1960 - Aris
+1961 - Mendelia
+1962 - Halden
+1963 - Tigibon
+1964 - Verôl
+1965 - Jibejan
+1966 - Teluomaj
+1967 - Aazimar
+1968 - Blou
+1969 - Yaka
+1970 - Bek
+1971 - Pytch
+1972 - Seyroth
+1973 - Redfis
+1974 - Lim
+1975 - Grut
+1976 - Atsu
+1977 - Gnat
+1978 - Hellmut
+1979 - Azrou
+1980 - Oopah
+1981 - Bouliks
+1982 - Ansôh
+1983 - Ikoan
+1984 - Poch
+1985 - Lamarilu
+1986 - Apprenti Cuisinier
+1987 - Apprenti Cuisinier
+1988 - Apprentie Cuisinière
+1989 - Apprentie Cuisinière
+1990 - Amélie Poêlon
+1991 - Gouwou Wabbit
+1992 - Papy Propre
+1993 - Isidor Fèvre
+1994 - Brokkeitri
+1995 - Laurent Part
+1996 - Carla Garfield
+1997 - Otto Ktone
+1998 - Dolores Kimo
+1999 - Baron d'Ouillard
+2000 - Darwin Chester
+2001 - Karla Shnikoff
+2002 - Ness Gessé
+2003 - Mina Spirite
+2004 - André Vauld
+2005 - Hiroze
+2006 - Domie Natrix
+2007 - Noo
+2008 - Dorléans
+2009 - Arthur Quenotte
+2010 - Taylor Parfait
+2011 - Zazabib Leroxeur
+2012 - Dulliane
+2013 - Liymenske
+2014 - Emmie Nansgriz
+2015 - Fine Razil
+2016 - Général Kel Krakdel
+2017 - Spectre de Badmorva
+2018 - Clothurde
+2019 - Lachandi
+2020 - Atroskulda
+2021 - Joey Skro
+2022 - Ed Othnas
+2024 - Glourson Frileux
+2025 - Hazieff Taroun
+2026 - Gardien du Destin
+2027 - Djaulien Perdu
+2028 - Nileza
+2029 - S.L.O.P.
+2030 - Duncan
+2031 - Professeur Imagarihs
+2032 - Biofiente
+2033 - Idrissa Boteur
+2034 - Emma Sculai
+2035 - Serviteur du Marquis
+2036 - Chachatte Empaillée
+2037 - Ravisseur Kanimate
+2038 - Ravisseur Mécanofoux
+2039 - Ravisseur Mérulor
+2040 - Missiz Frizz
+2041 - Merrin Lencastré
+2043 - Kasper Erra
+2044 - Fantôme de Merrin
+2045 - Klime
+2046 - Sylargh
+2047 - Comte Harebourg
+2048 - Messager Grippé
+2049 - Pilote de la compagnie Asfog et Fils
+2050 - Gobiling
+2051 - Jiva
+2052 - Djaul
+2053 - Docteur Eggob
+2054 - Glourdorak
+2055 - Mekamouth
+2056 - Psikopompe
+2057 - Chevalier de Glace
+2058 - Culbutœuf
+2059 - Habitant de Frigost
+2060 - Ouvrière du Comte
+2061 - S. Bill Sberg
+2062 - Ingénieur frigostien
+2063 - Baron Flex
+2064 - Comtesse Tikule
+2065 - Marquis Kitoudur
+2066 - Seigneur Hablan
+2067 - Stalak errant
+2068 - Esprit de Jean Neige
+2069 - Jean Neige
+2070 - Créature de gaz
+2071 - Maîtresse K
+2072 - Rems
+2073 - Yanouchk
+2074 - Sirdal
+2075 - Eiwech
+2076 - Alaokit
+2077 - Poupik
+2078 - Lazura
+2079 - Unkn
+2080 - Blid
+2081 - Jihelair
+2082 - Oskerine
+2083 - Pasquéoz
+2084 - Klernodie
+2085 - Zuart
+2086 - Bouilli
+2087 - Okajin
+2088 - Luzbel
+2089 - Titi
+2090 - Alucard
+2091 - Gurvamon
+2092 - Alhera
+2093 - Tholank
+2094 - Kaoly
+2095 - Xan
+2096 - Anulideven
+2097 - Lokhaan
+2098 - Benka
+2099 - Nobozil
+2100 - Olileb
+2101 - Aleb
+2102 - Krisdanh
+2103 - Jycêdus
+2104 - Pô
+2105 - Puliblak
+2106 - Anshâ
+2107 - Meda
+2108 - Jü
+2109 - Dramon
+2110 - Zeg
+2111 - Tix
+2112 - Rigamix
+2113 - Matgap
+2114 - Sab
+2115 - Ouchim
+2116 - Margarou
+2117 - Orreip
+2118 - Lortecaps
+2119 - Marjul
+2120 - Ynniw
+2121 - Pilserpus
+2122 - Gridoo
+2123 - Theomak
+2124 - Pierdem
+2125 - Guiboun
+2126 - Mikala
+2127 - Lolzeolf
+2128 - Fizzi
+2129 - Talentyre
+2130 - Noon
+2131 - Dyw
+2132 - So
+2133 - Bitkyo
+2135 - Paysanne Bontarienne
+2136 - Paysan Bontarien
+2137 - Paysanne Bontarienne
+2138 - Paysan Bontarien
+2139 - Aida Limenterre
+2140 - Kama Baraka
+2141 - Prisme d'Alliance
+2142 - Hal Hans
+2143 - Captain Amakna
+2144 - Tiwabbit Kiatwefin
+2145 - Wabbit Squelette agressif
+2146 - Betamoche
+2147 - Gawdien Wabbit
+2148 - Docteur Walterbychop
+2149 - Waldo Nald
+2150 - Conducteuw de foweuse
+2151 - Pwince Uwgé
+2152 - Pwince Sanwiwe
+2153 - Pwince Ipauté
+2154 - Tim Bweton
+2155 - Assistant Wabbit
+2156 - Tanguy Yann
+2157 - Sergent Darm
+2158 - Sergent Sihv
+2159 - Trublion Brâkmarien
+2160 - Agitatrice Brâkmarienne
+2161 - Comploteur Brâkmarien
+2162 - Trublion Bontarien
+2163 - Agitatrice Bontarienne
+2164 - Comploteur Bontarien
+2165 - Gobusier
+2166 - Arty Heur
+2167 - Captain Amakna
+2168 - Méchant Garçon
+2169 - Petite Frappe
+2170 - Vile Gredine
+2171 - Beurky
+2172 - Makia Vhel
+2176 - Janine Caune
+2177 - Bouftou Sombre
+2178 - Bouftou Céleste
+2179 - Piou Sombre
+2180 - Piou Céleste
+2181 - Tofu Sombre
+2182 - Tofu Céleste
+2183 - Sanglier Sombre
+2184 - Sanglier Céleste
+2185 - Arakne Sombre
+2186 - Arakne Céleste
+2187 - Reddis Recsion
+2192 - Chaga Lachance
+2193 - Archère débutante
+2195 - Apprenti Cuisinier
+2196 - Patte Oger
+2197 - Pâté de Sable Grincheux
+2198 - Ploup Azuré
+2200 - Six-Grilles l'Inapte
+2201 - Fils à Maman
+2203 - Mamie Adeline
+2204 - Grand Pâté de Sable
+2205 - Ploup Sanguin
+2206 - Ozzy l'Os Borgne
+2207 - Pakston
+2208 - Lyanata
+2209 - Ra's Al Goule
+2210 - Os Pithal
+2211 - Gürd Hill
+2212 - Marco Côtier
+2213 - Nuck Choland
+2214 - Mouette au regard vif
+2215 - Tony Savatte
+2216 - Tewence Savatte
+2217 - Bill Savatte
+2218 - Chris Taule
+2219 - Joueur enthousiaste
+2220 - Joueur déterminé
+2221 - Joueur épuisé
+2222 - Joueur entrainé
+2223 - Truffa l'Ère
+2224 - Troollogram
+2225 - Troollolens
+2226 - Troolligophrène
+2227 - Troollibrius
+2228 - Miss Hyonaire
+2230 - Bworkékorall
+2231 - Bworkouwar
+2232 - Folyo
+2233 - Tyranike
+2234 - Vieux Corbac
+2235 - Gloubiton Tamar
+2236 - Gob Jay Jaymal
+2237 - Al Dorène
+2238 - Jace Jaimy
+2239 - Serevus Gor
+2240 - Gobelin malchanceux
+2241 - Ben Ruh
+2242 - Kitlatonak
+2243 - Friloute
+2244 - Garde Géman
+2245 - Garde Bout
+2246 - Garde Lapeche
+2247 - Garde Fu
+2248 - Capitaine Hissmane
+2249 - Sedierta Otel
+2250 - Dieu Iop
+2251 - Risette Lestat
+2252 - Guerrier Iop
+2253 - Championne Iop
+2254 - Vétéran Iop
+2255 - Erukip l'apprenti
+2256 - Ver Tige
+2257 - Trémorse déboussolé
+2258 - Disciple de Sram
+2259 - Soldat blessé
+2260 - Poltron
+2261 - Ralf Loupain
+2262 - Zip
+2263 - Saphir
+2264 - Championne Iop
+2265 - Guerrier Iop
+2266 - Vétéran Iop
+2267 - Nimberbe
+2268 - Rube
+2269 - Heureux
+2270 - Niais
+2271 - Sieste
+2272 - Aimée Loupain
+2273 - Grinchu
+2274 - Doc'
+2275 - Nainfants
+2276 - Pépénin le Bref
+2277 - Ambre
+2278 - Ninzralon
+2279 - Nainfant agité
+2280 - Opale
+2281 - Thar Thathain
+2282 - Khabar Bekiu
+2283 - Thari Barbebouse
+2284 - Gathor Boyaud
+2285 - Mur-thud
+2286 - Ghrumo Vesfoi
+2287 - Marga Riko
+2288 - Marzar Tichau
+2289 - Dozag Tabrul
+2290 - Jella Minlourd
+2291 - Thrila Raille-Pied
+2292 - Barram Nim
+2293 - Contremaître Edemi
+2294 - Roäc Jambefine
+2295 - Mag Varak
+2296 - Ninstructeur
+2297 - Baelbar Benpic
+2298 - Struit Desgrimoir
+2299 - Ellah Bohome
+2300 - Ninstitutrice
+2301 - Boldess Turgeon
+2302 - Tyris Nestocho
+2303 - Mina Vargo
+2304 - Nintendant
+2305 - Diane Estezy
+2306 - Ninstallé
+2307 - Durandaille
+2308 - Karl Iremo
+2309 - Shushu A'oulde
+2310 - May Shrebell
+2311 - Pikténia stigmate
+2312 - Masticroc blanc
+2313 - Ver Itay
+2314 - Karl Cerall
+2315 - Améthyste
+2316 - Jade
+2317 - Topaze
+2318 - Thurguud Filenpoil
+2319 - Nainfant sage
+2320 - Darak Barbebouse
+2321 - Garde Dure-Tête
+2322 - Garde Dure-Tête
+2323 - Garde Dure-Tête
+2324 - Garde Dure-Tête
+2325 - Garde Dure-Tête
+2326 - Henri Stourn
+2327 - Tybar Grodunk
+2328 - Khabar Bekiu
+2329 - Eléva Sihon
+2330 - Grodalf l'aigri
+2331 - Apprentie Cuisinière
+2332 - Sinus Viruis
+2333 - Juge Martegel
+2335 - Spécialiste Mort-Brigand
+2337 - Note épinglée
+2339 - Ninstradamus
+2340 - Nintolérant
+2341 - Nainfant studieux
+2342 - Nainfant surdoué
+2343 - Pattah Filenpoil
+2344 - Ido
+2345 - Kass Partou
+2346 - Raviv Zaforge
+2347 - Ka'Youloud
+2348 - Visiteur Martegel
+2349 - Tarbu Zaforge
+2350 - Marnie Zaforge
+2351 - Rodrick Iremo
+2352 - Paf
+2353 - Musicien du Collectif Mal-tressé
+2354 - Musicien du Collectif Mal-tressé
+2355 - Musicienne du Collectif Mal-tressé
+2356 - Amaire Thume
+2357 - Arna Keul
+2358 - Barbe Oh'
+2359 - Sousouris indépendante
+2360 - Sousouris indépendante
+2361 - Gobelin teigneux
+2362 - Gobelin envahissant
+2363 - Gobelin furieux
+2366 - Phil Bustier
+2367 - Le Chouque
+2368 - Ben le Ripate
+2369 - Gourlo le Terrible
+2370 - Habitante de Cania
+2371 - Pistachio
+2372 - Marchand de Shariva
+2373 - Gâteau festif
+2376 - Garde-côte
+2377 - Momie Nova
+2378 - Esprit ancien de crocodaille
+2379 - Guerrier Paztek
+2380 - Aventurier Klay Kayton
+2381 - Kaytoplume
+2382 - Paztek Hama
+2383 - Arakne suspicieuse
+2384 - Talok
+2385 - Mage Upichu
+2386 - Otte Koutur
+2387 - Crocodaille pas si dupe
+2388 - Ralek
+2389 - Khor Tikyerdal
+2390 - undefined
+2391 - Crocodaille Mage
+2392 - Crocodaille d'Orado
+2393 - Crocodaille d'Orado
+2394 - Marc Azin, l'explorateur
+2395 - Fidèle d'Araknas
+2396 - Assaillant crocodaille
+2397 - Arakne
+2398 - Arakne
+2399 - Apparition de Kwetzakotlek
+2400 - Mazin Lyn
+2401 - Mucane
+2402 - Zobal rejeté
+2403 - Zobal rejeté
+2404 - Zobal rejetée
+2405 - Nimbos en colère
+2406 - Maya Zetek
+2407 - Ul'khan
+2408 - Ul'khan
+2409 - Ton-Kiti
+2410 - Fumée Nauséabonde
+2411 - Lambeau d'Ul'khan
+2412 - Lambeau d'Ul'khan
+2413 - Lambeau d'Ul'khan
